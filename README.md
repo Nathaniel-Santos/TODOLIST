@@ -1,3 +1,5 @@
+![](README/List%20App.png)
+
 # TODOLIST
 
 Este é um aplicativo criado com o intuito de praticar algumas funcionalidade básicas do react-native.
